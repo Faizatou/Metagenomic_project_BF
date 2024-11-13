@@ -1,0 +1,129 @@
+2024-11-12 23:00:07,517 NanoPlot 1.44.0 started with arguments Namespace(threads=4, verbose=False, store=False, raw=False, huge=False, outdir='./output_combined', no_static=False, prefix='', tsv_stats=False, only_report=False, info_in_report=False, maxlength=None, minlength=None, drop_outliers=False, downsample=None, loglength=False, percentqual=False, alength=False, minqual=None, runtime_until=None, readtype='1D', barcoded=False, no_supplementary=False, color='#4CB391', colormap='Greens', format=['png'], plots=['kde', 'dot'], legacy=None, listcolors=False, listcolormaps=False, no_N50=False, N50=False, title=None, font_scale=1, dpi=100, hide_stats=False, fastq=['/home/faiza/Downloads/projet_turore/database_initial/ERR3806857_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806858_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806859_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806860_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806861_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806862_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806863_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806864_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806865_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806866_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806867_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806868_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806869_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806870_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806871_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806872_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806873_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806874_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806875_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806876_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806877_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806878_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806879_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806880_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806881_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806882_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806883_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806884_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806885_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806886_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806887_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806888_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806889_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806890_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806891_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806892_1.fastq.gz'], fasta=None, fastq_rich=None, fastq_minimal=None, summary=None, bam=None, ubam=None, cram=None, pickle=None, feather=None, path='./output_combined/')
+2024-11-12 23:00:07,517 Python version is: 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]
+2024-11-12 23:00:07,545 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:00:07,545 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:00:07,545 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:00:07,545 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806858_1.fastq.gz
+2024-11-12 23:00:07,545 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806857_1.fastq.gz
+2024-11-12 23:00:07,545 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806859_1.fastq.gz
+2024-11-12 23:00:07,546 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:00:07,546 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806860_1.fastq.gz
+2024-11-12 23:00:47,792 Reduced DataFrame memory usage from 3.0565643310546875Mb to 3.0565643310546875Mb
+2024-11-12 23:00:47,809 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:00:47,809 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806861_1.fastq.gz
+2024-11-12 23:00:54,665 Reduced DataFrame memory usage from 3.5282440185546875Mb to 3.5282440185546875Mb
+2024-11-12 23:00:54,687 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:00:54,687 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806862_1.fastq.gz
+2024-11-12 23:00:54,909 Reduced DataFrame memory usage from 0.0142669677734375Mb to 0.0142669677734375Mb
+2024-11-12 23:00:54,909 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:00:54,909 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806863_1.fastq.gz
+2024-11-12 23:00:54,974 Reduced DataFrame memory usage from 3.5283050537109375Mb to 3.5283050537109375Mb
+2024-11-12 23:00:54,987 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:00:54,987 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806864_1.fastq.gz
+2024-11-12 23:01:12,466 Reduced DataFrame memory usage from 4.6933441162109375Mb to 4.6933441162109375Mb
+2024-11-12 23:01:12,481 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:12,481 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806865_1.fastq.gz
+2024-11-12 23:01:15,096 Reduced DataFrame memory usage from 0.1748809814453125Mb to 0.1748809814453125Mb
+2024-11-12 23:01:15,097 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:15,097 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806866_1.fastq.gz
+2024-11-12 23:01:17,718 Reduced DataFrame memory usage from 0.17620849609375Mb to 0.17620849609375Mb
+2024-11-12 23:01:17,719 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:17,719 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806867_1.fastq.gz
+2024-11-12 23:01:32,424 Reduced DataFrame memory usage from 3.051727294921875Mb to 3.051727294921875Mb
+2024-11-12 23:01:32,434 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:32,435 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806868_1.fastq.gz
+2024-11-12 23:01:32,492 Reduced DataFrame memory usage from 0.0036163330078125Mb to 0.0036163330078125Mb
+2024-11-12 23:01:32,492 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:32,492 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806869_1.fastq.gz
+2024-11-12 23:01:46,011 Reduced DataFrame memory usage from 3.3764801025390625Mb to 3.3764801025390625Mb
+2024-11-12 23:01:46,019 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:46,019 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806870_1.fastq.gz
+2024-11-12 23:01:46,027 Reduced DataFrame memory usage from 0.0002593994140625Mb to 0.0002593994140625Mb
+2024-11-12 23:01:46,028 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:46,028 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806871_1.fastq.gz
+2024-11-12 23:01:46,038 Reduced DataFrame memory usage from 0.00042724609375Mb to 0.00042724609375Mb
+2024-11-12 23:01:46,039 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:46,039 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806872_1.fastq.gz
+2024-11-12 23:01:46,051 Reduced DataFrame memory usage from 0.00048828125Mb to 0.00048828125Mb
+2024-11-12 23:01:46,051 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:46,051 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806873_1.fastq.gz
+2024-11-12 23:01:46,063 Reduced DataFrame memory usage from 0.0005035400390625Mb to 0.0005035400390625Mb
+2024-11-12 23:01:46,064 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:46,064 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806874_1.fastq.gz
+2024-11-12 23:01:50,649 Reduced DataFrame memory usage from 1.22540283203125Mb to 1.22540283203125Mb
+2024-11-12 23:01:50,651 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:50,651 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806875_1.fastq.gz
+2024-11-12 23:01:50,662 Reduced DataFrame memory usage from 0.0004425048828125Mb to 0.0004425048828125Mb
+2024-11-12 23:01:50,662 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:01:50,662 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806876_1.fastq.gz
+2024-11-12 23:02:02,934 Reduced DataFrame memory usage from 4.62274169921875Mb to 4.62274169921875Mb
+2024-11-12 23:02:02,952 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:02:02,952 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806877_1.fastq.gz
+2024-11-12 23:02:22,087 Reduced DataFrame memory usage from 2.1450042724609375Mb to 2.1450042724609375Mb
+2024-11-12 23:02:22,091 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:02:22,091 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806878_1.fastq.gz
+2024-11-12 23:02:23,368 Reduced DataFrame memory usage from 0.08587646484375Mb to 0.08587646484375Mb
+2024-11-12 23:02:23,369 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:02:23,369 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806879_1.fastq.gz
+2024-11-12 23:02:24,591 Reduced DataFrame memory usage from 2.5799713134765625Mb to 2.5799713134765625Mb
+2024-11-12 23:02:24,598 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:02:24,598 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806880_1.fastq.gz
+2024-11-12 23:02:24,617 Reduced DataFrame memory usage from 0.00048828125Mb to 0.00048828125Mb
+2024-11-12 23:02:24,617 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:02:24,617 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806881_1.fastq.gz
+2024-11-12 23:02:41,848 Reduced DataFrame memory usage from 2.6265411376953125Mb to 2.6265411376953125Mb
+2024-11-12 23:02:41,856 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:02:41,856 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806882_1.fastq.gz
+2024-11-12 23:02:45,010 Reduced DataFrame memory usage from 5.517425537109375Mb to 5.517425537109375Mb
+2024-11-12 23:02:45,030 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:02:45,030 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806883_1.fastq.gz
+2024-11-12 23:02:45,092 Reduced DataFrame memory usage from 0.0037689208984375Mb to 0.0037689208984375Mb
+2024-11-12 23:02:45,093 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:02:45,093 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806884_1.fastq.gz
+2024-11-12 23:03:02,781 Reduced DataFrame memory usage from 2.58428955078125Mb to 2.58428955078125Mb
+2024-11-12 23:03:02,785 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:03:02,785 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806885_1.fastq.gz
+2024-11-12 23:03:12,043 Reduced DataFrame memory usage from 1.99737548828125Mb to 1.99737548828125Mb
+2024-11-12 23:03:12,046 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:03:12,046 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806886_1.fastq.gz
+2024-11-12 23:05:03,962 Reduced DataFrame memory usage from 10.96441650390625Mb to 10.96441650390625Mb
+2024-11-12 23:05:04,011 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:05:04,011 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806887_1.fastq.gz
+2024-11-12 23:05:04,075 Reduced DataFrame memory usage from 0.0050506591796875Mb to 0.0050506591796875Mb
+2024-11-12 23:05:04,075 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:05:04,075 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806888_1.fastq.gz
+2024-11-12 23:05:04,119 Reduced DataFrame memory usage from 0.0033721923828125Mb to 0.0033721923828125Mb
+2024-11-12 23:05:04,119 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:05:04,119 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806889_1.fastq.gz
+2024-11-12 23:05:10,178 Reduced DataFrame memory usage from 12.947372436523438Mb to 12.947372436523438Mb
+2024-11-12 23:05:10,224 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:05:10,225 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806890_1.fastq.gz
+2024-11-12 23:05:18,307 Reduced DataFrame memory usage from 0.6782379150390625Mb to 0.6782379150390625Mb
+2024-11-12 23:05:18,308 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:05:18,308 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806891_1.fastq.gz
+2024-11-12 23:05:45,292 Reduced DataFrame memory usage from 13.228805541992188Mb to 13.228805541992188Mb
+2024-11-12 23:05:45,343 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 23:05:45,343 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806892_1.fastq.gz
+2024-11-12 23:05:51,895 Reduced DataFrame memory usage from 13.161453247070312Mb to 13.161453247070312Mb
+2024-11-12 23:05:53,290 Reduced DataFrame memory usage from 0.6670684814453125Mb to 0.6670684814453125Mb
+2024-11-12 23:05:58,931 Reduced DataFrame memory usage from 4.625244140625Mb to 4.625244140625Mb
+2024-11-12 23:09:27,266 Reduced DataFrame memory usage from 25.513092041015625Mb to 25.513092041015625Mb
+2024-11-12 23:09:27,399 Nanoget: Gathered all metrics of 8308940 reads
+2024-11-12 23:09:33,825 Calculated statistics
+2024-11-12 23:09:33,827 Using sequenced read lengths for plotting.
+2024-11-12 23:09:34,137 NanoPlot:  Valid color #4CB391.
+2024-11-12 23:09:34,137 NanoPlot:  Valid colormap Greens.
+2024-11-12 23:09:34,515 NanoPlot:  Creating length plots for Read length.
+2024-11-12 23:09:34,519 NanoPlot:  Using 8308940 reads maximum of 1600bp.
+2024-11-12 23:09:37,701 Saved ./output_combined/WeightedHistogramReadlength  as png (or png for --legacy)
+2024-11-12 23:09:39,133 Saved ./output_combined/WeightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2024-11-12 23:09:40,460 Saved ./output_combined/Non_weightedHistogramReadlength  as png (or png for --legacy)
+2024-11-12 23:09:41,859 Saved ./output_combined/Non_weightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2024-11-12 23:09:44,517 Saved ./output_combined/Yield_By_Length  as png (or png for --legacy)
+2024-11-12 23:09:44,519 Created length plots
+2024-11-12 23:09:44,576 NanoPlot: Creating Read lengths vs Average read quality plots using 8308940 reads.
+2024-11-12 23:09:47,183 Saved ./output_combined/LengthvsQualityScatterPlot_dot  as png (or png for --legacy)
+2024-11-12 23:09:49,574 Saved ./output_combined/LengthvsQualityScatterPlot_kde  as png (or png for --legacy)
+2024-11-12 23:09:49,575 Created LengthvsQual plot
+2024-11-12 23:09:49,575 Writing html report.
+2024-11-12 23:09:49,643 Finished!

@@ -1,0 +1,108 @@
+2024-11-12 21:56:23,595 NanoPlot 1.44.0 started with arguments Namespace(threads=4, verbose=False, store=False, raw=False, huge=False, outdir='./output_combined', no_static=False, prefix='', tsv_stats=False, only_report=False, info_in_report=False, maxlength=None, minlength=None, drop_outliers=False, downsample=None, loglength=False, percentqual=False, alength=False, minqual=None, runtime_until=None, readtype='1D', barcoded=False, no_supplementary=False, color='#4CB391', colormap='Greens', format=['png'], plots=['kde', 'dot'], legacy=None, listcolors=False, listcolormaps=False, no_N50=False, N50=False, title=None, font_scale=1, dpi=100, hide_stats=False, fastq=['/home/faiza/Downloads/projet_turore/database_initial/ERR3806857_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806858_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806859_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806860_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806861_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806862_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806863_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806864_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806865_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806866_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806867_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806868_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806869_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806870_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806871_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806872_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806873_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806874_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806875_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806876_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806877_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806878_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806879_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806880_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806881_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806882_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806883_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806884_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806885_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806886_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806887_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806888_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806889_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806890_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806891_1.fastq.gz', '/home/faiza/Downloads/projet_turore/database_initial/ERR3806892_1.fastq.gz'], fasta=None, fastq_rich=None, fastq_minimal=None, summary=None, bam=None, ubam=None, cram=None, pickle=None, feather=None, path='./output_combined/')
+2024-11-12 21:56:23,595 Python version is: 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]
+2024-11-12 21:56:23,622 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:56:23,622 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:56:23,622 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806858_1.fastq.gz
+2024-11-12 21:56:23,622 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806857_1.fastq.gz
+2024-11-12 21:56:23,622 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:56:23,622 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:56:23,623 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806859_1.fastq.gz
+2024-11-12 21:56:23,623 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806860_1.fastq.gz
+2024-11-12 21:56:37,995 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:56:37,996 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806861_1.fastq.gz
+2024-11-12 21:57:03,620 Reduced DataFrame memory usage from 3.0565643310546875Mb to 3.0565643310546875Mb
+2024-11-12 21:57:03,634 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:03,634 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806862_1.fastq.gz
+2024-11-12 21:57:03,859 Reduced DataFrame memory usage from 0.0142669677734375Mb to 0.0142669677734375Mb
+2024-11-12 21:57:03,859 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:03,859 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806863_1.fastq.gz
+2024-11-12 21:57:04,121 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:04,121 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806864_1.fastq.gz
+2024-11-12 21:57:10,566 Reduced DataFrame memory usage from 3.5282440185546875Mb to 3.5282440185546875Mb
+2024-11-12 21:57:10,588 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:10,588 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806865_1.fastq.gz
+2024-11-12 21:57:12,329 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:12,329 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806866_1.fastq.gz
+2024-11-12 21:57:14,940 Reduced DataFrame memory usage from 0.17620849609375Mb to 0.17620849609375Mb
+2024-11-12 21:57:14,940 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:14,997 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806867_1.fastq.gz
+2024-11-12 21:57:26,416 Reduced DataFrame memory usage from 4.6933441162109375Mb to 4.6933441162109375Mb
+2024-11-12 21:57:26,433 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:26,433 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806868_1.fastq.gz
+2024-11-12 21:57:26,489 Reduced DataFrame memory usage from 0.0036163330078125Mb to 0.0036163330078125Mb
+2024-11-12 21:57:26,489 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:26,489 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806869_1.fastq.gz
+2024-11-12 21:57:46,055 Reduced DataFrame memory usage from 1.22540283203125Mb to 1.22540283203125Mb
+2024-11-12 21:57:46,057 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:46,057 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806870_1.fastq.gz
+2024-11-12 21:57:46,065 Reduced DataFrame memory usage from 0.0002593994140625Mb to 0.0002593994140625Mb
+2024-11-12 21:57:46,065 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:46,065 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806871_1.fastq.gz
+2024-11-12 21:57:46,076 Reduced DataFrame memory usage from 0.00042724609375Mb to 0.00042724609375Mb
+2024-11-12 21:57:46,076 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:46,076 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806872_1.fastq.gz
+2024-11-12 21:57:46,088 Reduced DataFrame memory usage from 0.00048828125Mb to 0.00048828125Mb
+2024-11-12 21:57:46,088 Nanoget: Starting to collect statistics from plain fastq file.
+2024-11-12 21:57:46,088 Nanoget: Decompressing gzipped fastq /home/faiza/Downloads/projet_turore/database_initial/ERR3806873_1.fastq.gz
+2024-11-12 21:57:46,158 Reduced DataFrame memory usage from 0.0005035400390625Mb to 0.0005035400390625Mb
+2024-11-12 21:57:53,763 Reduced DataFrame memory usage from 3.3764801025390625Mb to 3.3764801025390625Mb
+2024-11-12 21:58:08,159 Reduced DataFrame memory usage from 4.62274169921875Mb to 4.62274169921875Mb
+2024-11-12 21:58:32,394 Reduced DataFrame memory usage from 5.517425537109375Mb to 5.517425537109375Mb
+2024-11-12 21:58:32,420 Compressed file ended before the end-of-stream marker was reached
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/faiza/.local/lib/python3.10/site-packages/Bio/File.py", line 72, in as_handle
+    with open(handleish, mode, **kwargs) as fp:
+TypeError: expected str, bytes or os.PathLike object, not TextIOWrapper
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/concurrent/futures/process.py", line 246, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "/usr/lib/python3.10/concurrent/futures/process.py", line 205, in _process_chunk
+    return [fn(*args) for args in chunk]
+  File "/usr/lib/python3.10/concurrent/futures/process.py", line 205, in <listcomp>
+    return [fn(*args) for args in chunk]
+  File "/home/faiza/.local/lib/python3.10/site-packages/nanoget/extraction_functions.py", line 396, in process_fastq_plain
+    data=[res for res in extract_from_fastq(inputfastq) if res],
+  File "/home/faiza/.local/lib/python3.10/site-packages/nanoget/extraction_functions.py", line 396, in <listcomp>
+    data=[res for res in extract_from_fastq(inputfastq) if res],
+  File "/home/faiza/.local/lib/python3.10/site-packages/nanoget/extraction_functions.py", line 407, in extract_from_fastq
+    for rec in SeqIO.parse(fq, "fastq"):
+  File "/home/faiza/.local/lib/python3.10/site-packages/Bio/SeqIO/Interfaces.py", line 91, in __next__
+    return next(self.records)
+  File "/home/faiza/.local/lib/python3.10/site-packages/Bio/SeqIO/QualityIO.py", line 1099, in iterate
+    for title_line, seq_string, quality_string in FastqGeneralIterator(handle):
+  File "/home/faiza/.local/lib/python3.10/site-packages/Bio/SeqIO/QualityIO.py", line 965, in FastqGeneralIterator
+    for line in handle:
+  File "/usr/lib/python3.10/gzip.py", line 314, in read1
+    return self._buffer.read1(size)
+  File "/usr/lib/python3.10/_compression.py", line 68, in readinto
+    data = self.read(len(byte_view))
+  File "/usr/lib/python3.10/gzip.py", line 507, in read
+    raise EOFError("Compressed file ended before the "
+EOFError: Compressed file ended before the end-of-stream marker was reached
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/faiza/.local/lib/python3.10/site-packages/nanoplot/NanoPlot.py", line 62, in main
+    datadf = get_input(
+  File "/home/faiza/.local/lib/python3.10/site-packages/nanoget/nanoget.py", line 110, in get_input
+    dfs=[out for out in executor.map(extraction_function, files)],
+  File "/home/faiza/.local/lib/python3.10/site-packages/nanoget/nanoget.py", line 110, in <listcomp>
+    dfs=[out for out in executor.map(extraction_function, files)],
+  File "/usr/lib/python3.10/concurrent/futures/process.py", line 575, in _chain_from_iterable_of_lists
+    for element in iterable:
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 621, in result_iterator
+    yield _result_or_cancel(fs.pop())
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 319, in _result_or_cancel
+    return fut.result(timeout)
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+EOFError: Compressed file ended before the end-of-stream marker was reached
