@@ -8,3 +8,4 @@ The aim is to define and implement the analysis steps and make the scripts avail
 
 By using this platform, the user will be able to reproduce all the results presented in this project.
 
+## Project details
