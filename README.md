@@ -7,3 +7,4 @@ generated on an Oxford Nanopore Technologies platform. This is part of a trainin
 
 By using this platform, the user will be able to reproduce all the results presented in this project.
 
+## Project details
