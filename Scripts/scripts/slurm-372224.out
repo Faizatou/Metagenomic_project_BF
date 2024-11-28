@@ -1,0 +1,217 @@
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806857.fastq.gz ...
+Loading database information... done.
+200307 sequences (289.75 Mbp) processed in 39.624s (303.3 Kseq/m, 438.74 Mbp/m).
+  200304 sequences classified (100.00%)
+  3 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806857.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806857_kraken2_report.txt et /home/sorgho/output_dir/ERR3806857_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806858.fastq.gz ...
+Loading database information... done.
+307575 sequences (447.55 Mbp) processed in 62.605s (294.8 Kseq/m, 428.93 Mbp/m).
+  307575 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806858.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806858_kraken2_report.txt et /home/sorgho/output_dir/ERR3806858_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806859.fastq.gz ...
+Loading database information... done.
+231219 sequences (334.84 Mbp) processed in 46.138s (300.7 Kseq/m, 435.44 Mbp/m).
+  231214 sequences classified (100.00%)
+  5 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806859.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806859_kraken2_report.txt et /home/sorgho/output_dir/ERR3806859_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806860.fastq.gz ...
+Loading database information... done.
+231223 sequences (335.78 Mbp) processed in 45.754s (303.2 Kseq/m, 440.33 Mbp/m).
+  231222 sequences classified (100.00%)
+  1 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806860.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806860_kraken2_report.txt et /home/sorgho/output_dir/ERR3806860_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806861.fastq.gz ...
+Loading database information... done.
+199990 sequences (289.07 Mbp) processed in 39.160s (306.4 Kseq/m, 442.91 Mbp/m).
+  199989 sequences classified (100.00%)
+  1 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806861.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806861_kraken2_report.txt et /home/sorgho/output_dir/ERR3806861_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806862.fastq.gz ...
+Loading database information... done.
+927 sequences (1.39 Mbp) processed in 0.227s (245.0 Kseq/m, 366.79 Mbp/m).
+  919 sequences classified (99.14%)
+  8 sequences unclassified (0.86%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806862.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806862_kraken2_report.txt et /home/sorgho/output_dir/ERR3806862_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806863.fastq.gz ...
+Loading database information... done.
+302948 sequences (439.08 Mbp) processed in 61.182s (297.1 Kseq/m, 430.61 Mbp/m).
+  302939 sequences classified (100.00%)
+  9 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806863.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806863_kraken2_report.txt et /home/sorgho/output_dir/ERR3806863_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806864.fastq.gz ...
+Loading database information... done.
+221273 sequences (321.57 Mbp) processed in 45.279s (293.2 Kseq/m, 426.12 Mbp/m).
+  221272 sequences classified (100.00%)
+  1 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806864.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806864_kraken2_report.txt et /home/sorgho/output_dir/ERR3806864_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806865.fastq.gz ...
+Loading database information... done.
+11453 sequences (16.64 Mbp) processed in 2.693s (255.2 Kseq/m, 370.77 Mbp/m).
+  11452 sequences classified (99.99%)
+  1 sequences unclassified (0.01%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806865.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806865_kraken2_report.txt et /home/sorgho/output_dir/ERR3806865_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806866.fastq.gz ...
+Loading database information... done.
+11540 sequences (16.76 Mbp) processed in 2.324s (298.0 Kseq/m, 432.89 Mbp/m).
+  11532 sequences classified (99.93%)
+  8 sequences unclassified (0.07%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806866.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806866_kraken2_report.txt et /home/sorgho/output_dir/ERR3806866_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806867.fastq.gz ...
+Loading database information... done.
+361582 sequences (531.82 Mbp) processed in 72.612s (298.8 Kseq/m, 439.45 Mbp/m).
+  361582 sequences classified (100.00%)
+  0 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806867.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806867_kraken2_report.txt et /home/sorgho/output_dir/ERR3806867_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806868.fastq.gz ...
+Loading database information... done.
+229 sequences (0.34 Mbp) processed in 0.053s (257.7 Kseq/m, 380.87 Mbp/m).
+  220 sequences classified (96.07%)
+  9 sequences unclassified (3.93%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806868.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806868_kraken2_report.txt et /home/sorgho/output_dir/ERR3806868_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806869.fastq.gz ...
+Loading database information... done.
+80300 sequences (116.72 Mbp) processed in 16.405s (293.7 Kseq/m, 426.89 Mbp/m).
+  80293 sequences classified (99.99%)
+  7 sequences unclassified (0.01%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806869.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806869_kraken2_report.txt et /home/sorgho/output_dir/ERR3806869_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806870.fastq.gz ...
+Loading database information... done.
+9 sequences (0.01 Mbp) processed in 0.002s (241.2 Kseq/m, 358.74 Mbp/m).
+  4 sequences classified (44.44%)
+  5 sequences unclassified (55.56%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806870.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806870_kraken2_report.txt et /home/sorgho/output_dir/ERR3806870_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806871.fastq.gz ...
+Loading database information... done.
+20 sequences (0.03 Mbp) processed in 0.005s (233.9 Kseq/m, 346.35 Mbp/m).
+  16 sequences classified (80.00%)
+  4 sequences unclassified (20.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806871.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806871_kraken2_report.txt et /home/sorgho/output_dir/ERR3806871_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806872.fastq.gz ...
+Loading database information... done.
+24 sequences (0.04 Mbp) processed in 0.007s (209.0 Kseq/m, 305.54 Mbp/m).
+  20 sequences classified (83.33%)
+  4 sequences unclassified (16.67%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806872.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806872_kraken2_report.txt et /home/sorgho/output_dir/ERR3806872_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806873.fastq.gz ...
+Loading database information... done.
+25 sequences (0.04 Mbp) processed in 0.006s (231.1 Kseq/m, 339.19 Mbp/m).
+  15 sequences classified (60.00%)
+  10 sequences unclassified (40.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806873.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806873_kraken2_report.txt et /home/sorgho/output_dir/ERR3806873_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806874.fastq.gz ...
+Loading database information... done.
+169073 sequences (243.52 Mbp) processed in 33.157s (305.9 Kseq/m, 440.67 Mbp/m).
+  169067 sequences classified (100.00%)
+  6 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806874.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806874_kraken2_report.txt et /home/sorgho/output_dir/ERR3806874_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806875.fastq.gz ...
+Loading database information... done.
+21 sequences (0.03 Mbp) processed in 0.005s (252.7 Kseq/m, 367.67 Mbp/m).
+  17 sequences classified (80.95%)
+  4 sequences unclassified (19.05%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806875.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806875_kraken2_report.txt et /home/sorgho/output_dir/ERR3806875_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806876.fastq.gz ...
+Loading database information... done.
+140567 sequences (200.59 Mbp) processed in 26.273s (321.0 Kseq/m, 458.08 Mbp/m).
+  140562 sequences classified (100.00%)
+  5 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806876.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806876_kraken2_report.txt et /home/sorgho/output_dir/ERR3806876_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806877.fastq.gz ...
+Loading database information... done.
+172125 sequences (245.86 Mbp) processed in 31.348s (329.4 Kseq/m, 470.58 Mbp/m).
+  172116 sequences classified (99.99%)
+  9 sequences unclassified (0.01%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806877.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806877_kraken2_report.txt et /home/sorgho/output_dir/ERR3806877_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806878.fastq.gz ...
+Loading database information... done.
+5620 sequences (8.05 Mbp) processed in 1.062s (317.4 Kseq/m, 454.90 Mbp/m).
+  5602 sequences classified (99.68%)
+  18 sequences unclassified (0.32%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806878.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806878_kraken2_report.txt et /home/sorgho/output_dir/ERR3806878_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806879.fastq.gz ...
+Loading database information... done.
+169356 sequences (250.48 Mbp) processed in 34.308s (296.2 Kseq/m, 438.06 Mbp/m).
+  169350 sequences classified (100.00%)
+  6 sequences unclassified (0.00%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806879.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806879_kraken2_report.txt et /home/sorgho/output_dir/ERR3806879_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806880.fastq.gz ...
+Loading database information... done.
+24 sequences (0.04 Mbp) processed in 0.007s (207.5 Kseq/m, 306.42 Mbp/m).
+  17 sequences classified (70.83%)
+  7 sequences unclassified (29.17%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806880.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806880_kraken2_report.txt et /home/sorgho/output_dir/ERR3806880_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806881.fastq.gz ...
+Loading database information... done.
+848511 sequences (1226.83 Mbp) processed in 165.293s (308.0 Kseq/m, 445.33 Mbp/m).
+  848334 sequences classified (99.98%)
+  177 sequences unclassified (0.02%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806881.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806881_kraken2_report.txt et /home/sorgho/output_dir/ERR3806881_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806882.fastq.gz ...
+Loading database information... done.
+130892 sequences (189.04 Mbp) processed in 24.283s (323.4 Kseq/m, 467.08 Mbp/m).
+  130822 sequences classified (99.95%)
+  70 sequences unclassified (0.05%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806882.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806882_kraken2_report.txt et /home/sorgho/output_dir/ERR3806882_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806883.fastq.gz ...
+Loading database information... done.
+239 sequences (0.35 Mbp) processed in 0.052s (275.6 Kseq/m, 408.62 Mbp/m).
+  176 sequences classified (73.64%)
+  63 sequences unclassified (26.36%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806883.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806883_kraken2_report.txt et /home/sorgho/output_dir/ERR3806883_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806884.fastq.gz ...
+Loading database information... done.
+718556 sequences (1043.73 Mbp) processed in 147.187s (292.9 Kseq/m, 425.47 Mbp/m).
+  718402 sequences classified (99.98%)
+  154 sequences unclassified (0.02%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806884.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806884_kraken2_report.txt et /home/sorgho/output_dir/ERR3806884_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806885.fastq.gz ...
+Loading database information... done.
+866955 sequences (1256.48 Mbp) processed in 171.548s (303.2 Kseq/m, 439.46 Mbp/m).
+  866793 sequences classified (99.98%)
+  162 sequences unclassified (0.02%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806885.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806885_kraken2_report.txt et /home/sorgho/output_dir/ERR3806885_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806886.fastq.gz ...
+Loading database information... done.
+862541 sequences (1249.58 Mbp) processed in 176.555s (293.1 Kseq/m, 424.65 Mbp/m).
+  862420 sequences classified (99.99%)
+  121 sequences unclassified (0.01%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806886.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806886_kraken2_report.txt et /home/sorgho/output_dir/ERR3806886_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806887.fastq.gz ...
+Loading database information... done.
+323 sequences (0.47 Mbp) processed in 0.076s (255.1 Kseq/m, 375.02 Mbp/m).
+  215 sequences classified (66.56%)
+  108 sequences unclassified (33.44%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806887.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806887_kraken2_report.txt et /home/sorgho/output_dir/ERR3806887_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806888.fastq.gz ...
+Loading database information... done.
+213 sequences (0.31 Mbp) processed in 0.050s (254.7 Kseq/m, 373.63 Mbp/m).
+  171 sequences classified (80.28%)
+  42 sequences unclassified (19.72%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806888.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806888_kraken2_report.txt et /home/sorgho/output_dir/ERR3806888_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806889.fastq.gz ...
+Loading database information... done.
+303112 sequences (437.62 Mbp) processed in 65.672s (276.9 Kseq/m, 399.82 Mbp/m).
+  302871 sequences classified (99.92%)
+  241 sequences unclassified (0.08%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806889.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806889_kraken2_report.txt et /home/sorgho/output_dir/ERR3806889_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806890.fastq.gz ...
+Loading database information... done.
+44441 sequences (64.14 Mbp) processed in 8.726s (305.6 Kseq/m, 441.04 Mbp/m).
+  44367 sequences classified (99.83%)
+  74 sequences unclassified (0.17%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806890.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806890_kraken2_report.txt et /home/sorgho/output_dir/ERR3806890_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806891.fastq.gz ...
+Loading database information... done.
+1672018 sequences (2457.09 Mbp) processed in 331.472s (302.7 Kseq/m, 444.76 Mbp/m).
+  1671933 sequences classified (99.99%)
+  85 sequences unclassified (0.01%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806891.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806891_kraken2_report.txt et /home/sorgho/output_dir/ERR3806891_kraken2_classified.txt.
+Traitement de /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806892.fastq.gz ...
+Loading database information... done.
+43709 sequences (63.11 Mbp) processed in 9.619s (272.7 Kseq/m, 393.70 Mbp/m).
+  43556 sequences classified (99.65%)
+  153 sequences unclassified (0.35%)
+Analyse terminée pour /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR3806892.fastq.gz. Résultats dans /home/sorgho/output_dir/ERR3806892_kraken2_report.txt et /home/sorgho/output_dir/ERR3806892_kraken2_classified.txt.
+Tous les fichiers FASTQ ont été traités.
