@@ -131,8 +131,6 @@ for fastq_file in "${fastq_files[@]}"; do
   # Run Kraken2 for each FASTQ file
   echo "Processing $fastq_file ..."
   kraken2 --db "$kraken2_db" --report "$output_file" --output "$classified_output_file" "$fastq_file"
-
-Step 4.2 : Run Kraken2
   # Check if Kraken2 ran successfully
   if [ $? -eq 0 ]; then
     echo "Analysis completed for $fastq_file. Results saved to $output_file and $classified_output_file."
@@ -143,7 +141,6 @@ done
 
 echo "All FASTQ files have been processed."
 ```
-
 Run Kraken2 
 ```bash
 kraken2 --db kraken_database/ /projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR/ERR38068*.fastq.gz --report report.txt --report-minimizer-data --> output_kraken
@@ -196,6 +193,7 @@ echo "Taxonomic abundance calculation completed. Results saved to $output_abunda
 ```
 
 ### Step 5 : Use Diamond for taxonomic assignation
+
 Step 5.1. Download bacteria bank
 ```bash
 Set paths to your directories and files
@@ -263,7 +261,7 @@ for fastq_file in $INPUT_DIR/*.fastq.gz; do
   mkdir -p $OUTPUT_DIR
 ```
 
-Step 6.2 : Ran Canu
+Step 6.2 : Run Canu
 ```bash
 Run CANU for each FASTQ file
   echo "Process of $fastq_file ..."
@@ -278,7 +276,7 @@ echo "All FASTQ files have been processed."
 # This will allow you to track assembly logs
 tail -f $OUTPUT_ROOT_DIR/*/*.log
 ```
-Step 6.1 Step 6.1 
+
 ## Contact us 
 
 - Faizatou S SORGHO (sorghofaiza@gmail.com)
