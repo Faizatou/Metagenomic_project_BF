@@ -240,8 +240,45 @@ done
 
 echo "All FASTQ files have been processed."
  ```
+
 ### Step 6 : Genome Assembly with Canu
 
+Step 6.1 : Define variables
+```bash
+# Define variables
+INPUT_DIR="/projects/medium/CIBIG_metagenomic_eaux/RAW_DATA/FASTQ_DIR"  # Replace with actual path
+GENOME_SIZE="2.0m"          # Estimated genome size for a metagenomic project. Adjust if necessary.
+OUTPUT_ROOT_DIR="output_dir"  # Directory where results will be saved.
+PREFIX="16S_assembly"         # Output file prefix.
+THREADS=4                     # Number of threads (adjust according to your hardware).
+# Loop to process each FASTQ file in the input directory
+for fastq_file in $INPUT_DIR/*.fastq.gz; do
+  # Extract file name without extension
+  filename=$(basename "$fastq_file" .fastq.gz)
+
+  # Define the specific output directory for each FASTQ file
+  OUTPUT_DIR="$OUTPUT_ROOT_DIR/${filename}_16S_assembly"
+
+  # Create output directory if necessary
+  mkdir -p $OUTPUT_DIR
+```
+
+Step 6.2 : Ran Canu
+```bash
+Run CANU for each FASTQ file
+  echo "Process of $fastq_file ..."
+  canu -p $PREFIX -d $OUTPUT_DIR genomeSize=$GENOME_SIZE -nanopore-raw $fastq_file
+
+  echo "Analysis complete for $fastq_file. Results in $OUTPUT_DIR."
+done
+
+echo "All FASTQ files have been processed."
+
+# Optional: monitor logs in real time during execution
+# This will allow you to track assembly logs
+tail -f $OUTPUT_ROOT_DIR/*/*.log
+```
+Step 6.1 Step 6.1 
 ## Contact us 
 
 - Faizatou S SORGHO (sorghofaiza@gmail.com)
